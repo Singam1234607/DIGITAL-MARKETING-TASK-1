@@ -40,12 +40,6 @@ Each day in the calendar includes:
 | Saturday   | Weekend Special       | Share light, lifestyle content        |
 | Sunday     | Sneak Peek Sunday     | Tease what’s coming next              |
 
-## 🔧 How to Use
-
-1. Download the `30_day_social_media_calendar.xlsx` file.
-2. Open it using Excel or Google Sheets.
-3. Customize the captions, hashtags, and image ideas to match your brand voice.
-4. Schedule posts using tools like Buffer, Hootsuite, Later, or Meta Business Suite.
 
 ## OUTPUT 
 
