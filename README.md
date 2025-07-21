@@ -40,3 +40,5 @@ Each day in the calendar includes:
 4. Schedule posts using tools like Buffer, Hootsuite, Later, or Meta Business Suite.
 
 ## OUTPUT 
+
+[30_day_social_media_calendar.xlsx](https://github.com/user-attachments/files/21341064/30_day_social_media_calendar.xlsx)
